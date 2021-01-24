@@ -1,0 +1,14 @@
+*,*::after,*::before{
+    box-sizing: border-box;
+}
+
+h2{
+    background-color: rebeccapurple;
+    color: white;
+    font-size: 4em;
+    text-align: center;
+    width: 50%;
+    border: 5px solid black;
+    border-radius: 2em;
+    margin: auto;
+}
